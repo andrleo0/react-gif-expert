@@ -6,11 +6,11 @@ exports[`Pruebas en el <GiftItem /> Debe hacer match con el snapshot 1`] = `
     class="card"
   >
     <img
-      alt="Un titulo"
-      src="https://localhost/algo.jpg"
+      alt="Avatar"
+      src="https://avatar/korra.jpg"
     />
     <p>
-      Un titulo
+      Avatar
     </p>
   </div>
 </div>
